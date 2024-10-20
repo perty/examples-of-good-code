@@ -126,7 +126,7 @@ public class TrafficLight1 {
     ...
 ```
 
-This allows for 8 states, most of which are invalid. Instead, we can use an enum.
+This allows for 8 states, half of which are invalid. Instead, we can use an enum.
 
 ```java
 public class TrafficLight2 {
